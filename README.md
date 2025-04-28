@@ -106,6 +106,7 @@ void findMinimum(int *numbers) {
 }
 
 void menu() {
+
     printf("\nOptions:\n");
     printf("0 - Exit\n");
     printf("1 - Enter numbers\n");
